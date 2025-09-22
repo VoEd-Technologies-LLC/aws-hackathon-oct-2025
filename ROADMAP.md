@@ -88,6 +88,13 @@ This roadmap outlines the development path for **NeuroCoach: An Autonomous ADHD 
 - [ ] Final security review and hardening
 - [ ] Documentation completeness check
 
+### 4.4 Enhanced User Experience
+- [ ] **Character Images Integration**: Add visual character representations for different ADHD subtypes (Inattentive, Hyperactive-Impulsive, Combined)
+- [ ] **Avatar System**: Implement customizable user avatars for personalized experience
+- [ ] **Visual Progress Indicators**: Add progress bars and visual feedback for questionnaire completion
+- [ ] **Interactive Elements**: Enhance UI with animations and visual cues for better engagement
+- [ ] **Accessibility Improvements**: Ensure all visual elements meet WCAG guidelines
+
 ## Phase 5: Hackathon Submission (Week 6)
 
 ### 5.1 Submission Package
