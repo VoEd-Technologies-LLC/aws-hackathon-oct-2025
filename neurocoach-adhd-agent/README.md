@@ -4,7 +4,7 @@
 
 [![AWS AI Agent Hackathon](https://img.shields.io/badge/AWS%20AI%20Agent%20Hackathon-2025-orange)](https://aws-agent-hackathon.devpost.com/)
 [![DevPost Submission](https://img.shields.io/badge/DevPost-Submit%20Here-blue)](https://aws-agent-hackathon.devpost.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Restricted](https://img.shields.io/badge/License-Restricted-red.svg)](#)
 [![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonaws)](https://aws.amazon.com/)
 
 **An AWS-powered AI agent that provides personalized ADHD screening, coaching, and therapy preparation support**
@@ -12,6 +12,16 @@
 [📋 Project Plan](PROJECT_PLAN.md) • [🗺️ Roadmap](ROADMAP.md) • [🏗️ Architecture](ARCHITECTURE.md) • [🎬 Demo Script](docs/demo-script.md)
 
 </div>
+
+---
+
+## 👩‍⚕️ **Authorship & Rights**
+
+**Developed by Dr. Alice Vo Edwards**
+
+This code was developed by Dr. Alice Vo Edwards for the AWS AI Agent Hackathon 2025. No rights are being given away except to the AWS hackathon judges for the purpose of testing and evaluation. All intellectual property rights remain with the original author.
+
+**⚠️ Restricted License**: This project is not open source and is not licensed under any open source license. The code is provided solely for the AWS AI Agent Hackathon evaluation purposes.
 
 ---
 
@@ -510,7 +520,13 @@ All AI responses include credible sources such as:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**⚠️ RESTRICTED LICENSE - NOT OPEN SOURCE**
+
+This project is not licensed under any open source license. The code was developed by Dr. Alice Vo Edwards for the AWS AI Agent Hackathon 2025 and is provided solely for evaluation purposes by the hackathon judges.
+
+**No rights are granted** for use, modification, distribution, or commercial exploitation of this code except as explicitly permitted by the AWS AI Agent Hackathon terms and conditions.
+
+All intellectual property rights remain with the original author, Dr. Alice Vo Edwards.
 
 ## 🙏 Acknowledgments
 
