@@ -17,11 +17,39 @@
 
 ## 👩‍⚕️ **Authorship & Rights**
 
-**Developed by Dr. Alice Vo Edwards**
+**Developed by Dr. Alice Vo Edwards, VoEd Technologies LLC**
 
-This code was developed by Dr. Alice Vo Edwards for the AWS AI Agent Hackathon 2025. No rights are being given away except to the AWS hackathon judges for the purpose of testing and evaluation. All intellectual property rights remain with the original author.
+This code was developed by Dr. Alice Vo Edwards, owner of VoEd Technologies LLC, for the AWS AI Agent Hackathon 2025. No rights are being given away except to the AWS hackathon judges for the purpose of testing and evaluation. All intellectual property rights remain with Dr. Alice Vo Edwards and VoEd Technologies LLC.
 
 **⚠️ Restricted License**: This project is not open source and is not licensed under any open source license. The code is provided solely for the AWS AI Agent Hackathon evaluation purposes.
+
+## 🔗 **GitHub Repository Configuration**
+
+**⚠️ IMPORTANT**: GitHub repository information is stored in the `.env` file for easy reference and persistence across sessions.
+
+**To check GitHub configuration:**
+```bash
+# View GitHub repository details
+cat .env | grep GITHUB
+```
+
+**Repository Details** (see `.env` file for complete configuration):
+- **GitHub URL**: Check `GITHUB_REPO_URL` in `.env`
+- **Repository Name**: Check `GITHUB_REPO_NAME` in `.env`
+- **Owner**: Check `GITHUB_OWNER` in `.env`
+- **Web Access**: Check `GITHUB_WEB_URL` in `.env`
+
+**Quick Git Commands** (see `.env` file for reference):
+```bash
+# Check current remote
+git remote -v
+
+# Push to main branch
+git push -u origin main
+
+# Push to test branch
+git push -u origin v0.0.0-test
+```
 
 ---
 
